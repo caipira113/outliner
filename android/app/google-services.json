@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18349526022",
+    "project_id": "outliner-f560b",
+    "storage_bucket": "outliner-f560b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18349526022:android:83c34cb1db2d5551ff0787",
+        "android_client_info": {
+          "package_name": "net.libnare.outliner.outliner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3N9IV9LGy-FEQqAWf45T-TFPfQfQmlmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
